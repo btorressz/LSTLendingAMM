@@ -1,7 +1,7 @@
 # LSTLendingAMM
 #  **LST Lending AMM with Collateralized Swaps (Ethereum Solidity Version)**
 
-This project is the **Ethereum Solidity version** of a lending protocol originally implemented on **Solana using Rust and Anchor**. The protocol(smart contract) has been carefully adapted to the Ethereum ecosystem, leveraging Solidity, OpenZeppelin libraries, and Chainlink oracles to ensure secure and efficient lending operations.
+This project is the **Ethereum Solidity version** of a lending protocol originally implemented on **Solana using Rust and Anchor**. The protocol(smart contract) has been carefully adapted to the Ethereum ecosystem, leveraging Solidity, OpenZeppelin libraries, and Chainlink oracles to ensure secure and efficient lending operations. This project was developed in Remix IDE 
 
 ## 🚀 **Project Overview**
 
